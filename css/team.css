@@ -1,0 +1,40 @@
+.team {
+    background-color: #f4f4fd;
+}
+
+.team-list {
+    display: flex;
+    gap: 24px;
+}
+
+.team-list li {
+    width: calc((100% - 72px) / 4);
+}
+
+.person {
+    background-color: #ffffff;
+}
+
+.title-h3 {
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.title-p {
+    color: #434455;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.team-txt {
+    margin-bottom: 72px;
+    line-height: 1.11;
+    text-align: center;
+}
+.person img {
+    display: block;
+}
+.person {
+    border-radius: 0 0 4px 4px;}
+.team-card-content {
+    padding: 32px 16px;}
